@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href = 'https://www.benchmarksolution.com/'>Benchmark Computer Solution</a>
 - 🌱 I’m currently learning Flutter and Dart.
 - 💬 Ask me about Flutter and any tech related stuff.
