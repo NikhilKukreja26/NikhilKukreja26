@@ -1,18 +1,15 @@
 ### Hey There I'm Nikhil Kukreja 👋
 
-<!--
-**NikhilKukreja26/NikhilKukreja26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href = 'https://www.benchmarksolution.com/'>Benchmark Computer Solution</a>
+- 🌱 I’m currently learning Flutter and Dart.
+- 💬 Ask me about Flutter and any tech related stuff.
+- 📫 How to reach me: <a href = 'https://twitter.com/NikhilKukreja26'>Twitter - @NikhilKukreja26</a>
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: One of my favorite things is playing COC.
+
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=nikhilkukreja26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
