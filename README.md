@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on <a href = 'https://www.benchmarksolution.com/'>Benchmark Computer Solutions Pvt Ltd.</a>
+- 🔭 I’m currently working on <a href = 'http://benchmarksolution.com'>Benchmark Computer Solutions Pvt Ltd.</a>
 - 🌱 I’m currently learning Flutter and Dart.
 - 💬 Ask me about Flutter and any tech related stuff.
 - 📫 How to reach me: <a href = 'https://twitter.com/NikhilKukreja26'>Twitter - @NikhilKukreja26</a>
