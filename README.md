@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on <a href = 'https://www.simplelogic.in/'>Simple Logic IT Pvt. Ltd.</a>
+- 🔭 I’m currently working on <a href = 'https://www.simplelogic.in/'>Simple Logic IT Pvt Ltd.</a>
 - 🌱 I’m currently learning Flutter and Dart.
 - 💬 Ask me about Flutter and any tech related stuff.
 - 📫 How to reach me: <a href = 'https://twitter.com/NikhilKukreja26'>Twitter - @NikhilKukreja26</a>
