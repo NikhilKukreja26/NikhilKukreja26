@@ -1,4 +1,4 @@
-### Hey There I'm Nikhil Kukreja 👋
+### Hey There I am Nikhil Kukreja 👋
 
 
 
