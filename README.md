@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working at <a href = 'https://www.wylth.com/' target='_blank'>Wylth</a> as Senior Mobile Application Developer.
-- 🌱 I’m currently learning Swift Language.
+- 🌱 I’m currently Diving Deep into Native Android (Kotlin).
 - 💬 Ask me about Flutter and any tech-related stuff.
 - 📫 How to reach me: <a href = 'https://twitter.com/NikhilKukreja26'>Twitter - @NikhilKukreja26</a>
 - 😄 Pronouns: He/His
