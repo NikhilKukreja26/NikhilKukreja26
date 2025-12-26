@@ -12,8 +12,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Wylth** as a **Senior Mobile Application Developer**
-- 📱 7+ years of experience building **scalable & high-performance mobile apps**
+- 🔭 Currently working at **<a href="https://www.wylth.com" target="_blank">Wylth</a>** as a **Senior Mobile Application Developer**
+- 📱 7+ years of experience building **scalable & high-performance mobile applications**
 - 🌱 Currently diving deep into **Native Android (Kotlin & Jetpack Compose)**
 - 💬 Ask me about **Flutter, Mobile Architecture, CI/CD, or App Performance**
 - ⚡ Fun fact: One of my favorite things is playing **Clash of Clans (COC)** 🎮
@@ -50,6 +50,7 @@
 ### 📫 Connect With Me
 
 - 🌐 Website: [nikhilkukreja.dev](https://nikhilkukreja.dev)
+- 🏢 Company: [wylth.com](https://www.wylth.com)
 - Twitter: [@NikhilKukreja26](https://twitter.com/NikhilKukreja26)
 - LinkedIn: [nikhilkukreja26](https://www.linkedin.com/in/nikhilkukreja26/)
 - GitHub: [NikhilKukreja26](https://github.com/NikhilKukreja26)
